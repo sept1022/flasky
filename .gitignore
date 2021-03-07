@@ -1,0 +1,7 @@
+venv
+migration
+__pycache__
+*.sqlite
+.DS_Store
+.idea
+*.swp
